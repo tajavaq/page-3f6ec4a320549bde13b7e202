@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-84ce489620.dynep.cn/sitemap.xml
